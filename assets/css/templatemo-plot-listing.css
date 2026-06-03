@@ -281,7 +281,7 @@ header
   height: 58px;
   display: inline-block;
   margin-top: 20px;
-  color: white;
+  color: rgb(245, 10, 10);
   font-size: large;
 }
 
@@ -291,7 +291,7 @@ header
   height: 58px;
   display: inline-block;
   margin-top: 10px;
-  color: white;
+  color: rgb(238, 16, 16);
    font-size: large;
 }
 
